@@ -1,2 +1,3 @@
 # odin-recipes
-HTML Practice
+
+HTML Practice - HTML Foundations
